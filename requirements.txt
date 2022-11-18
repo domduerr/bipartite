@@ -1,0 +1,7 @@
+beautifulsoup4==4.11.1
+lxml==4.9.1
+git+https://github.com/domduerr/satispy.git@9c75d5f6a5e32c4dae8783ed168f91c59ed51c44
+numpy==1.23.4
+six==1.16.0
+matplotlib==3.6.1
+pandas==1.5.1
